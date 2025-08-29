@@ -2,7 +2,7 @@
 
 ## 1) Título del proyecto
 **InnovaWeb** — *Tienda Comercial profesional*  
-> Ejemplo: **InnovaWeb — Tienda Comercial profesional**
+> Nombre del sitio: **InnovaWeb — Tienda Comercial profesional**
 
 ## 2) Descripción (propósito y utilidad)
 Este proyecto es una tienda online basada en **WordPress** orientada a prácticas de CMS.  
