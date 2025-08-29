@@ -23,7 +23,7 @@ El objetivo académico es aprender instalación, configuración y documentación
 
 _Nota: algunas funciones estaran disponible en próximos Sprints_
 
-##Documento con Capturas de los Integrantes
+## Documento con Capturas de los Integrantes
 
 [Documento con capturas](https://drive.google.com/drive/folders/1FqeadtInbayReN9E6hJU2EPyi-MA8-Dx)  
 
