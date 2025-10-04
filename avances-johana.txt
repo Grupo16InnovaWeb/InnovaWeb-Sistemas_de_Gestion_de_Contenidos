@@ -1,0 +1,6 @@
+Avances Johana – 04/10/2025
+
+-Diseñé la página de presentación.
+- Creé la estructura de la página de integrantes.
+- Asigné las tecnologías a cada integrante en la wiki.
+- Revisé el diseño de la página de inicio.
