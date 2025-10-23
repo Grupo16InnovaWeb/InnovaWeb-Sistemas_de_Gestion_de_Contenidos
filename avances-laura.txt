@@ -1,0 +1,5 @@
+-Subí mi cv a la página de quiénes somos
+-Agregado de la categoría ‘Experiencias’ al conjunto de pestañas del sitio
+-Agregado de entradas de blog a la categoría experiencias
+-Actualicé el formulario de contacto con los datos en español
+-Agregado del woocommerce a la página tienda virtual
