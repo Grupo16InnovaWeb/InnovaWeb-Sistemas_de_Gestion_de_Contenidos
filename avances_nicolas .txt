@@ -1,0 +1,15 @@
+Este commit incluye los aportes y avances realizados por Tello Adrian Nicolás.
+
+Acciones técnicas realizadas:
+1. Instalación y activación del plugin WooCommerce.
+2. Creación de la lista de productos, incluyendo:
+   - Nombre del producto
+   - Descripción
+   - Precio
+   - Imagen
+3. Configuración de los métodos de pago disponibles.
+4. Agregado de una entrada de blog a la categoría experiencias.
+5. Carga de Curriculum Vitae a "Quienes somos".
+6. Capturas en Drive sobre la instalacion y funcionamiento del XAMPP, MyPhpAdmin y Usuario creado de Wordpress.
+Colaboración en el equipo:
+- Participación en reuniones diarias (dailys) para coordinar tareas.
